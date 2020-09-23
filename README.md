@@ -1,6 +1,6 @@
 # 🦄 Curriculum Vitae of [Scott McCallum](https://linkedin.com/in/scott-mccallum)
 
-BASIC LOGO DBASE-II C PASCAL COBOL C++ Python Java LUA FORTH 🐬RETROFORTH 🌈RAINBOW4TH 🍵CHAI
+BASIC LOGO DBASE-II C PASCAL COBOL C++ Python Java LUA FORTH 🐬RETROFORTH 🌈RAINBOW4TH 🍵CHAISCRIPT
 
 ## Early career
 
