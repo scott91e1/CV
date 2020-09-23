@@ -1,6 +1,6 @@
 # 🦄 Curriculum Vitae of [Scott McCallum](https://linkedin.com/in/scott-mccallum)
 
-OCCAM PASCAL LISP DBASE LOGO VSAM A, B, FORTH, RETROFORTH, UNI4THMD, C++, Python, Java, LUA, Wren, CHAI, .NET...
+BASIC: LOGO DBASE-II C PASCAL PROLOG COBOL C++ Python Java LUA FORTH RETROFORTH UNI4THMD Wren CHAI .NET...
 
 ## Early career
 
