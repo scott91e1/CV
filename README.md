@@ -1,6 +1,6 @@
 # 🦄 Curriculum Vitae of [Scott McCallum](https://linkedin.com/in/scott-mccallum)
 
-OCCAM PASCAL LISP DBASE LOGO VSAM A, B, FORTH, RETROFORTH, POW4TH, C++ { 'My': 'Choice' } Python .NET :( :( :( Java(C)(TM)(Bastards Inc) 
+OCCAM PASCAL LISP DBASE LOGO VSAM A, B, FORTH, RETROFORTH, UNI4THMD, C++, Python, Java, LUA, Wren, CHAI, .NET...
 
 ## Early career
 
