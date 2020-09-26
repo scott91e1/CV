@@ -12,3 +12,4 @@ BHP-IT was the prime contactor to DSS during the hundred million dollar network 
 
 Scott spent a year working for Novell in Australia in the role of Asia-Pacific developer support. During this time he used his board range of development experience to assist other developers with their own projects. His roles also involved trade show and running development seminars with 100+ developers.
 
+
