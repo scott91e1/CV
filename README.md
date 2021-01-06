@@ -1,6 +1,6 @@
 # Curriculum Vitae of [Scott McCallum](https://linkedin.com/in/scott-mccallum)
 
-BASIC LOGO DBASE-II C PASCAL COBOL C++ Python Java LUA FORTH 🐬RETROFORTH 🌈RAINBOW4TH 🍵CHAISCRIPT
+LOGO BASIC DBASE-2/3/4 C OCCAM PROLOG C++ Python Java LUA 🍵CHAISCRIPT 🌈RAINBOW4TH
 
 ## Early career
 
